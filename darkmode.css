@@ -1,0 +1,39 @@
+body {
+    background: #333 !important;
+    /*Color of numbers in game grid*/
+	color: #333 !important;
+}
+
+.game {
+    background: #333 !important;
+}
+
+h1 {
+	color: #fff !important;
+}
+
+/*Save and Send in buttons*/
+.purple-btn {
+    background: #F9BD5C !important;
+}
+
+/*Save and Send in buttons*/
+.purple-btn:hover {
+    background: #F7D194 !important;
+}
+
+/*Help, Winners and Solutions buttons*/
+.gray-btn {
+    background: #993A51 !important;
+    color: #fff;
+}
+
+/*Help, Winners and Solutions buttons*/
+.gray-btn:hover {
+    background: #B74859 !important;
+}
+
+/*Help, Winners and Solutions buttons*/
+.menu .left a {
+    color: #fff !important;
+}

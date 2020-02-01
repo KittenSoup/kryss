@@ -1,0 +1,27 @@
+li.temp-marker {
+    background-image: linear-gradient(141deg, #5B1A43 0%, #993A51 51%, #B74859 75%) !important;
+    color: #FFFFFF !important;
+}
+
+li.marker {
+    background-image: none !important;
+    background-color: #F7D194 !important;
+}
+
+li.selected {
+    background-image: none !important;
+    background-color: #F9BD5C !important
+}
+
+.game .grid li p {
+    font-size: 42px !important;
+    margin-top: 4px;
+    cursor: default;
+    font-family: 'Kalam', cursive !important;
+}
+
+@media screen and (max-width: 560px) {
+    .game .grid li p {
+        font-size: 26px !important;
+    }
+}
